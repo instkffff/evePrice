@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "eveprice",
   "main": "index.js",
-  "dependencise":{
+  "dependencies":{
     "dotenv": "6.0.0",
     "evepraisal": "latest",
     "telegraf": "3.22.2",
